@@ -12,4 +12,4 @@ If you finish the lab, feel free to take a stab at the Issue Bot lab!
 
 ## Share Share Share!
 
-Finished `Album Cover`? Don't forget to share your work with your friends with the **\#flatironcodeclub** and **\#pharrellneedsme**
+When you finish, don't forget to share your work with your friends with the **\#flatironcodeclub** and **\#pharrellneedsme**
