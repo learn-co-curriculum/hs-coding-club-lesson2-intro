@@ -9,3 +9,7 @@ Last club meeting, you touched on why HTML is so powerful and how to write some 
 You're going to be tackling the Album Cover lab today. You'll want to use the lesson as a resource to help you get through the lab. 
 
 If you finish the lab, feel free to take a stab at the Issue Bot lab!
+
+## Share Share Share!
+
+Finished `Album Cover`? Don't forget to share your work with your friends with the **\#flatironcodeclub** and **\#pharrellneedsme**
