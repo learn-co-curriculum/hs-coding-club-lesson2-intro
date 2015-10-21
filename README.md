@@ -1,6 +1,6 @@
 # Let's Get Coding!
 
-<img src="http://25.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mwjlmfJ1vx1rkiuhro1_500.gif">
+<img src="https://s3.amazonaws.com/after-school-assets/typing-fast.gif">
 
 Last club meeting, you touched on why HTML is so powerful and how to write some basic HTML tags. This meeting, you're going to get even better at writing HTML.
 
