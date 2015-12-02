@@ -13,3 +13,5 @@ If you finish the lab, feel free to take a stab at the Issue Bot lab!
 ## Share Share Share!
 
 When you finish, don't forget to share your work with your friends with the **\#flatironcodeclub** and **\#pharrellneedsme**
+
+<a href='https://learn.co/lessons/hs-coding-club-lesson2-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
